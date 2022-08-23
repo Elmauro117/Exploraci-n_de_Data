@@ -16,3 +16,4 @@
 
 
 ### The dataset is from Kaggle repository
+### The link is here:  https://www.kaggle.com/code/mohamedaminesoltani/eda-e-commerce-women-fashion/comments
