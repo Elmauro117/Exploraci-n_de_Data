@@ -12,3 +12,7 @@
 #### This repository contains a python code with the data exploration of a retail dataset.
 #### The code contains explanation of every step made of the data exploration. It sustracts the results of the exploration, supported with
 #### graphics and tables.
+
+
+
+### The dataset is from Kaggle repository
